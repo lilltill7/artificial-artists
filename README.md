@@ -2,6 +2,8 @@
 
 **A live computational performance system that gives programmed backing instruments a visual, synchronized presence on stage.**
 
+<p align="center"><img src="demo.gif" width="90%" alt="Notes playing in Ableton light up keys in the Artificial Artists visualizer"/><br/><sub>Prototype 1: MIDI from Ableton Live lighting up the visual keyboard in real time.</sub></p>
+
 When a solo musician performs with a backing track, the audience hears extra instruments but sees nobody playing them. Artificial Artists explores that gap: each programmed instrument is represented on a screen, and its visuals are driven directly by the musical data, so what the audience sees and what they hear are the same event.
 
 > Status: **Prototype 1 complete** (one instrument, live MIDI to synchronized visual). Prototypes 2-6 are planned.
